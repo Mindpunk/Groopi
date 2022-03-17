@@ -27,6 +27,7 @@
     ]
   },
   "projects": {
+    "electron-groopi-app": {},
     "react-groopi-app": {
       "tags": []
     },
